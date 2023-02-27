@@ -19,5 +19,5 @@ La segunda branch o _"gh-pages"_ se encuentra todo lo relacionado a la página w
 Nuestro fin de este repositorio es poder utilizarlos en futuros proyectos y trabajos, así como poder compartirlo con personas interesadas en el tema.
 
 
-<div align="center"><img src="logo_large.png"></div>
+<div align="center"><img src="assets/img/logo_large.png"></div>
 
